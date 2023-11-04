@@ -162,7 +162,7 @@ fun BottomMenuItem(
 
 @Composable
 fun GreetingSection(
-    name: String = "Philipp"
+    name: String = "Karan"
 ) {
     Row(
         horizontalArrangement = Arrangement.SpaceBetween,
